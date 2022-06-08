@@ -160,6 +160,9 @@
       <TabItem Header="Native Embed">
         <pages:NativeEmbedPage />
       </TabItem>
+      <TabItem Header="Dialogs">
+        <pages:DialogsPage />
+      </TabItem>
       <TabItem Header="Window Customizations">
         <pages:WindowCustomizationsPage />
       </TabItem>
